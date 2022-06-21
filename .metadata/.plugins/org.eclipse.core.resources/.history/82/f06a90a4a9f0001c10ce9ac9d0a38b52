@@ -1,0 +1,7 @@
+package classes;
+
+public interface Operacoes<T> {
+	
+	public String abrirConta(T conta);
+
+}
